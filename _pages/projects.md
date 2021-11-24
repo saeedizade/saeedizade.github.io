@@ -1,12 +1,3 @@
-<!-- ---
-title: "Archive Layout with Content"
-layout: projects
-permalink: /projects/
----
-
-{% include base_path %}
-{% include toc %}
- -->
  ---
 permalink: /projects/
 title: "Projects"
@@ -40,7 +31,3 @@ final thesis, I developed a software to predict the popularity of different news
 web-based software extracts various news from a news website every day and shows users the
 number of changes in views and popularity of topics in the form of a dashboard.
 
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
