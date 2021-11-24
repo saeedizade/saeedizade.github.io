@@ -1,11 +1,8 @@
 ---
 title: "Archive Layout with Content"
 layout: projects
-<!-- permalink: /projects/ -->
-redirect_from: 
-  - /projects/
-  - /projects.html
----
+permalink: /projects/
+
 
 {% include base_path %}
 {% include toc %}
@@ -16,7 +13,6 @@ KGRefiner is a novel refining method for refining knowledge graphs. This method 
 
 ## Inferable Persian Knowledge Graph
 Graph I worked on the Persian knowledge graph. The original graph was not inferable; therefore, no link prediction and triple classification methods could infer on them. I developed several algorithms to prune the graphs. As a result, Farsbase107k392R is created from Farsbase. (comming soon)
-
 
 ## Hadware Limited OpenKE
 OpenKE is a widely used framework for link prediction. It does
