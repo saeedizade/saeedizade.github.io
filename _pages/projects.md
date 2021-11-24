@@ -9,7 +9,7 @@ permalink: /projects/
  -->
  ---
 permalink: /projects/
-title: "Terms and Privacy Policy"
+title: "Projects"
 modified: 2016-06-06
 ---
 
