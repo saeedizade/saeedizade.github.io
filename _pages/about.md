@@ -23,6 +23,12 @@ Research Interests
 ======
 My primary research interest is [NLP](https://en.wikipedia.org/wiki/Natural_language_processing). Most of the university work and research that I did was in this field. For example, my thesis and two papers are about representation learning on [knowledge graph completion](https://paperswithcode.com/task/knowledge-graph-completion). In addition, I love [representation learning](https://en.wikipedia.org/wiki/Feature_learning) and [graph algorithm](https://en.wikipedia.org/wiki/Graph_theory). My secondary research interest is [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding). I am passionate about several NLP tasks, from text processing, [information extraction (IE)](https://en.wikipedia.org/wiki/Information_extraction), and [summarisation](http://nlpprogress.com/english/summarization.html) to complicated tasks like reasoning on graphs. Lastly, I like to make ML algorithms more robust to noise and attack to be more accurate when predicting even out of distribution.
 
+In preparation papers
+======
+Mirzapour, M., Ragheb, W., Saeedizade, M., & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, LREC 2022 (In prep).<br>
+Saeedizade, M., Eslami, M., & Farvardin, M. (n.d.)., “Feature embedding for categories with high cardinality.”, (In prep). <br>
+
+
 <!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
