@@ -12,11 +12,9 @@ main:
   - title: "References"
     url: /References/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Skills"
+    url: /Skills/
+
   - title: "CV"
     url: https://drive.google.com/file/d/1VVLwfuBu9a012WhNVNMW1Kjb3B2RQaps/view?usp=sharing
     
-  - title: "Skills"
-    url: /Skills/
