@@ -1,12 +1,16 @@
- ---
+<!--  ---
 permalink: /projects/
 title: "Projects"
+modified: 2016-06-06
+--- -->
+---
+permalink: /terms/
+title: "Terms and Privacy Policy"
 modified: 2016-06-06
 ---
 
 {% include base_path %}
 {% include toc %}
-
 ## KGRefiner1
 KGRefiner is a novel refining method for refining knowledge graphs. This method helps link prediction algorithms outperform by using hierarchical information in knowledge graphs. Paper: [KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods](https://arxiv.org/pdf/2106.14233.pdf).
 
