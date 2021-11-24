@@ -1,7 +1,16 @@
----
+<!-- ---
 title: "Archive Layout with Content"
 layout: projects
 permalink: /projects/
+---
+
+{% include base_path %}
+{% include toc %}
+ -->
+ ---
+permalink: /projects/
+title: "Terms and Privacy Policy"
+modified: 2016-06-06
 ---
 
 {% include base_path %}
