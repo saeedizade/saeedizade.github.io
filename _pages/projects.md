@@ -1,10 +1,10 @@
- ---
+<!--  ---
 permalink: /projects/
 title: "Projects"
 redirect_from: 
   - /projects/
   - /projects.html
----
+--- -->
 {% include base_path %}
 {% include toc %}
 ## KGRefiner
