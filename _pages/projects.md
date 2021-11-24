@@ -1,7 +1,10 @@
 ---
 title: "Archive Layout with Content"
 layout: projects
-permalink: /projects/
+<!-- permalink: /projects/ -->
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
 
 ## KGRefiner
