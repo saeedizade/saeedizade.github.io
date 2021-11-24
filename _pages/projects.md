@@ -2,7 +2,7 @@
 title: "Archive Layout with Content"
 layout: projects
 permalink: /projects/
-
+---
 
 {% include base_path %}
 {% include toc %}
