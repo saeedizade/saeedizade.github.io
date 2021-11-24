@@ -1,7 +1,9 @@
  ---
 permalink: /projects/
 title: "Projects"
-modified: 2016-06-06
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
 {% include base_path %}
 {% include toc %}
