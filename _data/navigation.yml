@@ -6,14 +6,14 @@ main:
   - title: "Projects"
     url: /_pages/projects/  
 
-  - title: "Experience"
-    url: /Experience/    
+#   - title: "Experience"
+#     url: /Experience/    
     
-  - title: "References"
-    url: /References/
+#   - title: "References"
+#     url: /References/
         
-  - title: "Skills"
-    url: /Skills/
+#   - title: "Skills"
+#     url: /Skills/
 
   - title: "CV"
     url: https://drive.google.com/file/d/1VVLwfuBu9a012WhNVNMW1Kjb3B2RQaps/view?usp=sharing
