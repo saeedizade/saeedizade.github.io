@@ -19,10 +19,6 @@ In 2019, I was accepted to the [Iran University of Science and Technology (IUST)
 In 2014, I was accepted to [Qom University](http://old.qom.ac.ir/portal/home/?3522/English-Portal). In the first two years, I started learning and searching for my passion in computer fields, and in my third year, I spent all my time learning web and database design. Then, after taking natural language processing and data mining courses in the fourth year, I became interested in artificial intelligence and decided to continue my studies in this field. Also, I and completed my bachelor's project in the Data Mining Laboratory.
 My GPA in last two years was 82%.
 
-Research Interests
-======
-My primary research interest is [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) and machine learning with graphs. Most of the university work and research that I did was in this field. For example, my thesis and two papers are about representation learning on [knowledge graph completion](https://paperswithcode.com/task/knowledge-graph-completion). In addition, I love [representation learning](https://en.wikipedia.org/wiki/Feature_learning) and [graph algorithm](https://en.wikipedia.org/wiki/Graph_theory). My secondary research interest is [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding). I am passionate about several NLP tasks, from text processing, [information extraction (IE)](https://en.wikipedia.org/wiki/Information_extraction), and [summarisation](http://nlpprogress.com/english/summarization.html) to complicated tasks like reasoning on graphs. Lastly, I like to make ML algorithms more robust to noise and attack to be more accurate when predicting even out of distribution.
-
 In preparation papers
 ======
 Mirzapour, M., Ragheb, W., Saeedizade, M., & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, LREC 2022 (In prep).<br>
