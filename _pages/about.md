@@ -19,9 +19,13 @@ In 2019, I was accepted to the [Iran University of Science and Technology (IUST)
 In 2014, I was accepted to [Qom University](http://old.qom.ac.ir/portal/home/?3522/English-Portal). In the first two years, I started learning and searching for my passion in computer fields, and in my third year, I spent all my time learning web and database design. Then, after taking natural language processing and data mining courses in the fourth year, I became interested in artificial intelligence and decided to continue my studies in this field. Also, I and completed my bachelor's project in the Data Mining Laboratory.
 My GPA in last two years was 82%.
 
+Publication
+======
+Mirzapour, M., Ragheb, W., Saeedizade, M., & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, <b> LREC 2022 (Main Event) </b>.<br>
+Saeedizade, M., Torabian, N., & Minaei-Bidgoli, B. (2021). KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods. arXiv preprint arXiv:2106.14233. (under ARR Review)
+
 In preparation papers
 ======
-Mirzapour, M., Ragheb, W., Saeedizade, M., & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, LREC 2022 (In prep).<br>
 Saeedizade, M., Eslami, M., & Farvardin, M. (n.d.)., “Feature embedding for categories with high cardinality.”, (In prep). <br>
 
 
