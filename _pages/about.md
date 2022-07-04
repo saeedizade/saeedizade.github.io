@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Mohammad Javad Saeedizade. I am a first-year Ph.D. candidate at Linkoping University under supervision of [Eva Blonqvist](https://www.evablomqvist.se/). 
+I am Mohammad Javad Saeedizade. I am a first-year Ph.D. candidate at Linkoping University under supervision of [Eva Blomqvist](https://www.evablomqvist.se/). 
 
 Education
 ======
