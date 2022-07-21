@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Mohammad Javad Saeedizade. I am a first-year Ph.D. candidate at Linkoping University under supervision of [Eva Blomqvist](https://www.evablomqvist.se/). 
+I am Mohammad Javad Saeedizade. I am a first-year Ph.D. candidate at Linkoping University under the supervision of [Eva Blomqvist](https://www.evablomqvist.se/). My research is at the intersection of NLP and Knowledge Graphs (form AI prospectives: Link prediction, Noise removal, etc.). If you have an interesting idea in my research interests, shoot me an email to work on it togeth
 
 Education
 ======
