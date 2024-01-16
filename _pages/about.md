@@ -23,8 +23,7 @@ Publications
 ======
 Mirzapour, M., Ragheb, W., <b> Saeedizade, M.</b>, & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, <b> LREC 2022 </b>.  [<b>PDF</b>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.553.pdf) <br>
 
-<b>Saeedizade</b>, M., Torabian, N., & Minaei-Bidgoli, B. (2021). KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods. arXiv preprint arXiv:2106.14233. (under ARR Review) [<b>PDF</b>]([https://arxiv.org/pdf/2106.14233.pdf](https://aclanthology.org/2022.sustainlp-1.3.pdf)) <br>
+<b>Saeedizade</b>, M., Torabian, N., & Minaei-Bidgoli, B. (2021). KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods. Proceedings of The Third Workshop on Simple and Efficient Natural Language Processing (SustaiNLP), [<b>PDF</b>](https://aclanthology.org/2022.sustainlp-1.3.pdf) <br>
 
-<!-- In preparation papers
 ======
 
