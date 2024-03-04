@@ -21,8 +21,7 @@ My GPA in the last two years was 82%.
 
 Publications
 ======
-Alharbi ,Ahmed, Dobriy, Łajewska, Menotti, **Saeedizade** *, Dumontie.Exploring the Role of Generative AI in Constructing Knowledge Graphs for Drug Indications with Medical Context. 15th International Semantic Web Applications and Tools for Healthcare and Life Sciences (SWAT4HCLS 2024)
-<sup>equal contribution, results of summer school research project, and extending it after.</sup>
+Alharbi ,Ahmed, Dobriy, Łajewska, Menotti, **Saeedizade** *, Dumontie.Exploring the Role of Generative AI in Constructing Knowledge Graphs for Drug Indications with Medical Context. 15th International Semantic Web Applications and Tools for Healthcare and Life Sciences (SWAT4HCLS 2024) <br> <sup>equal contribution, results of summer school research project, and extending it after.</sup>
 
 Mirzapour, M., Ragheb, W., <b> Saeedizade, M.</b>, & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, <b> LREC 2022 </b>.  [<b>PDF</b>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.553.pdf) <br>
 
