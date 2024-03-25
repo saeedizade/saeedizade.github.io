@@ -21,7 +21,7 @@ My GPA in the last two years was 82%.
 
 Publications
 ======
-**Saeedizade , M**, Blomqvist, Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling, ESWC 2024
+**Saeedizade , M**, Blomqvist , E, Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling, ESWC 2024
 
 Alharbi ,Ahmed, Dobriy, Łajewska, Menotti, **Saeedizade** *, Dumontie.Exploring the Role of Generative AI in Constructing Knowledge Graphs for Drug Indications with Medical Context. SWAT4HCLS 2024 <br> <sup>equal contribution.</sup>
 
