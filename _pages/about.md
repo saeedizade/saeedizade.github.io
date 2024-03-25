@@ -21,9 +21,9 @@ My GPA in the last two years was 82%.
 
 Publications
 ======
-**Saeedizade , M**, Blomqvist , E, Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling, Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling
+**Saeedizade , M**, Blomqvist , E, Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling. **ESWC 2024**
 
-Alharbi ,Ahmed, Dobriy, Łajewska, Menotti, **Saeedizade** *, Dumontie.Exploring the Role of Generative AI in Constructing Knowledge Graphs for Drug Indications with Medical Context. Navigating Ontology Development with Large Language Models: A Study on User Stories Modelling <br> <sup>equal contribution.</sup>
+Alharbi ,Ahmed, Dobriy, Łajewska, Menotti, **Saeedizade** *, Dumontie. Exploring the Role of Generative AI in Constructing Knowledge Graphs for Drug Indications with Medical Context. **SWAT4HCLS 2024** <br> <sup>equal contribution.</sup>
 
 Mirzapour, M., Ragheb, W., **Saeedizade**, **M**., & Cousot, K. (n.d.)., “Introducing rezojdm semantic dataset for link prediction.”, <b> LREC 2022 </b>.  [<b>PDF</b>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.553.pdf) <br>
 
